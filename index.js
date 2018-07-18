@@ -47,7 +47,7 @@ function removeLastDriver(){
 
 function removeFirstDriver(){
   const newdrivers = ["Milo", "Otis", "Garfield"]
-  newdrivers.pop(
+  newdrivers.shift(
     )
     return newdrivers
 } 
