@@ -40,7 +40,7 @@ function prependDriver(name){
 
 function removeLastDriver(){
   const newdrivers = ["Milo", "Otis", "Garfield"]
-  newdrivers.unshift(
+  newdrivers.pop(
     )
     return newdrivers
 } 
