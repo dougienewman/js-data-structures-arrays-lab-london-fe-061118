@@ -13,7 +13,7 @@ function destructivelyPrependDriver(name){
 }
 
 
-function destructivelyPrependDriver(name){
-  drivers.unshift(name
+function destructivelyRemoveLastDriver(){
+  drivers.(name
     )
 }
