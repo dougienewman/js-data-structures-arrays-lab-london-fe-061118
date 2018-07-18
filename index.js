@@ -28,6 +28,7 @@ function appendDriver(name){
   const newdrivers = ["Milo", "Otis", "Garfield"]
   newdrivers.push(name
     )
+    return 
 }  
 
 
